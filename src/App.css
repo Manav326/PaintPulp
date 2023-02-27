@@ -191,7 +191,7 @@ h1, .h1{font-size: 50px; line-height: 1.10;
 }
 .FooterTop .Logo{margin: 0 auto;}
 .Social{list-style: none; text-align: left; margin: 0; padding: 0;   }
-.Social li{display: inline-block; }
+.Social li{display: inline-block; margin-right: 16px; }
 .Social .SocialIcon{display: inline-block; width: 32px; height: 32px; background-position:center; background-repeat: no-repeat; background-size: contain; cursor: pointer; }
 .SocialIcon.IconFaceBook{ background-image: url(../src/Images/IconFaceBook.png) ;}
 .SocialIcon.IconInsta{ background-image: url(../src/Images/IconInsta.png) ;}
@@ -405,11 +405,11 @@ opacity:0.5
   .AboutImg{margin-bottom: 48px;}
 
   .ExhibitionsList{list-style: none; margin: 0; padding: 0;}
-  .ExhibitionsList li{display: flex; align-items: flex-start; margin-bottom: 32px;}
+  .ExhibitionsList li{display: block; align-items: flex-start; margin-bottom: 32px;}
   .ExhibitionsList .ExhibitionsListItem {display: flex; padding-bottom: 8px;}
-  .ExhibitionsList .ExhibitionsYear{width:150px; padding-right: 36px; color: #000; font-size: 40px; line-height: 1; font-weight: 500; font-style: italic; font-family: FontFace1_1;}
- .ExhibitionsList   .ExhibitionsMonth{display:inline-block; width:160px; padding-right: 32px; font-size: 32px; color: #000; line-height: 1; font-weight: 500; font-style: italic; font-family: FontFace1;}
- .ExhibitionsList  .ExhibitionsDetail{display:inline-block;   font-size:24px; line-height: 40px; color: #666666; font-family: FontFace3;}
+  .ExhibitionsList .ExhibitionsYear{width:130px; padding-right: 36px; color: #000; font-size: 32px; line-height: 1; font-weight: 500; font-style: italic; font-family: FontFace1_1;}
+ .ExhibitionsList   .ExhibitionsMonth{display:inline-block; width:160px; padding-right: 32px; font-size: 20px; color: #000; line-height: 1; font-weight: 500; font-style: italic; font-family: FontFace1;}
+ .ExhibitionsList  .ExhibitionsDetail{display:inline-block;   font-size:14px; line-height: 1.5; color: #666666; font-family: FontFace3;}
 
 .PaintingDetailTitle{margin-bottom: 32px;}
 .PaintingDetailDesc{margin-bottom: 70px;     font-size: 20px;line-height: 30px; font-family:FontFace3}
@@ -505,6 +505,20 @@ opacity:0.5
 
 }
 
+@media only screen and (max-width: 575px) {
+  
+.PaintingDetailDescContainer{margin-top: 100px;}
+ 
+
+}
+
+@media only screen and (min-width: 576) {
+  
+  .PaintingDetailDescContainer{margin-top: 0;}
+   
+  
+  }
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .Logo{
@@ -524,17 +538,19 @@ opacity:0.5
     margin-left: 24px;
   }
   
-
+  .FormContainer{margin-top: 40px;}
 }
 @media only screen and (max-width: 767px) {
- .PaintingDetailDescContainer{margin-top: 108px;}
+  
 
+  .PaintingDetailDesc{margin-bottom: 24px;}
 .navbar-nav li{padding:8px;text-align:right;}
 .navbar-nav li .nav-link{padding: 0 !important;}
 
 
 .mobile-menu-icon{display: block;}
 .nav-links-desktop{display: none;}
+.ExhibitionsList .ExhibitionsYear{margin-bottom: 8px;}
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -581,11 +597,12 @@ opacity:0.5
   .nav-link{ position: relative;}
   /* .nav-link.active::after{position: absolute; bottom: 0; left: 0; width: 100%; content: ' '; height: 2px; background-color:#000;} */
 
-  
+  .ExhibitionsList li{display: flex; }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+  
   .MainContainer{
     padding: 180px 0 0 0 ;
   }
@@ -616,7 +633,9 @@ opacity:0.5
     margin-left: 24px;
   }
   .PaintingDetailDescContainer{padding-left: 40px;}
-  
+  .ExhibitionsList  .ExhibitionsDetail{   font-size:24px; line-height: 40px; }
+  .ExhibitionsList .ExhibitionsYear{width:150px;  font-size: 40px; }
+ .ExhibitionsList   .ExhibitionsMonth{font-size: 32px;}
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -638,7 +657,7 @@ opacity:0.5
         margin-top: 30px;
       }
       
-  .container-fluid{padding: 0 80px;}
+  .container-fluid{padding: 0 40px;}
   .CustomCol{max-width: 40%; margin-top: 90px;}
   .CustomCol:nth-child(odd) {
     float: left;
@@ -651,16 +670,21 @@ opacity:0.5
   }
   .PaintingDetailDescContainer{padding-left: 40px;}
   
-  
+  .GalleryContainer{max-width: 1000px; margin: 0 auto;}
 
 }
 
+@media only screen and (min-width: 1400) {
+ .container-fluid{padding: 0 80px;}
+.GalleryContainer{max-width: 1200px; margin: 0 auto;}
+}
+
 @media only screen and (min-width: 1600px) {
-  
+  .container-fluid{padding: 0 80px;}
   .AboutText2{margin-bottom: 48px; font-size: 24px;}
   .AboutTitle2{margin-bottom:140; margin-left:60}
   .AboutImg{margin-bottom: 140px;}
-  .FooterContainer{width:100%;   margin: 170px 0 170px  305px;}
+  .FooterContainer{width:100%;   margin: 170px 0 170px  218px;}
   .BtnContainer{margin-top:120px;}
   .CustomHeadingSpace{margin-bottom:90px; margin-left:60px}
   .PaintingDetailPage .carousel-wrapper{height: 656px;}
@@ -686,10 +710,13 @@ opacity:0.5
 
 
 @media only screen and (min-width: 1921px) {
-  .container-fluid{max-width: 1760px;}
-  .FooterContainer{max-width:1760px; margin: 0 auto; padding: 170px 0 170px 0;}
+  .CustomHeadingSpace{ margin-left:60px}
+   .container-fluid{width: 1920px;} */
+  .FooterContainer{width: 70%; margin: 0 auto; padding: 170px auto 170px  305px;}
   .PaintingDetailPage .carousel-wrapper{height: 656px;}
-  .GalleryContainer{max-width: 70%; margin: 0 auto;}
+  .GalleryContainer{width: 80%;
+    max-width: 80%;
+    margin: 0 auto;}
 
   .CustomCol:nth-child(odd) {
     width: 40%;

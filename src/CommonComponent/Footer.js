@@ -6,7 +6,7 @@ function Footer() {
     return (
      
 <>
-
+<div className='container-fluid'>
 <div className='FooterContainer'>
 <div className="row justify-content-md-left">
   <div class=" col HideOnMobile"  >
@@ -38,7 +38,7 @@ function Footer() {
    </div>
   </div>
   </div> 
-  
+  </div>
 
   
   </>

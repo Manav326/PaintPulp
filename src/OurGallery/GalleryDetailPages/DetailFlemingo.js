@@ -55,7 +55,7 @@ function Flemingo() {
        <h2 className="CustomHeadingSpace">Our Gallery</h2>
        <div className="GalleryDetailContainer PaintingDetailPage">
        <div class="row justify-content-md-left" >
-           <div class="  col-xs-12  col-sm-6 col-lg-5" style={{padding:0}} >
+           <div class="  col-xs-12  col-sm-5 col-lg-5" style={{padding:0}} >
            <div className="carousel-wrapper">
         <Carousel breakPoints={breakPoints}>
           {GalleryDetailImages.map((item) => (
@@ -66,9 +66,9 @@ function Flemingo() {
           
           </div>
 
-       <div class="col-xs-12  col-sm-6 col-lg-7">
+       <div class="col-xs-12  col-sm-7 col-lg-7">
         <div className="PaintingDetailDescContainer">
-       <h2 className="PaintingDetailTitle">Femingo</h2>
+       <h2 className="PaintingDetailTitle">Flemingo</h2>
        <div className="PaintingDetailDesc">
        <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
 

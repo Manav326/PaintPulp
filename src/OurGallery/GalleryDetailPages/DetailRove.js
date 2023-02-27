@@ -55,7 +55,7 @@ function      Rove() {
        <h2 className="CustomHeadingSpace">Our Gallery</h2>
        <div className="GalleryDetailContainer PaintingDetailPage">
        <div class="row justify-content-md-left" >
-           <div class="  col-xs-12  col-sm-6 col-lg-5" style={{padding:0}} >
+           <div class=" col-xs-12  col-sm-5  col-lg-5" style={{padding:0}} >
            <div className="carousel-wrapper">
         <Carousel breakPoints={breakPoints}>
           {GalleryDetailImages.map((item) => (
@@ -66,7 +66,7 @@ function      Rove() {
           
           </div>
 
-       <div class="col-xs-12  col-sm-6 col-lg-7">
+       <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle"> Rove</h2>
        <div className="PaintingDetailDesc">
