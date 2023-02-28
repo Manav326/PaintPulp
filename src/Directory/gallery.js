@@ -361,7 +361,7 @@ function Work() {
 
     { 
       key: 'GardenOfHappiness',
-      routeTo: '/ggarden-of-happiness', 
+      routeTo: '/garden-of-happiness', 
       id:'GardenOfHappiness',
      src:Thumb26,
      alt:'Garden Of Happiness',

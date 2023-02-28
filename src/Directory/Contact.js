@@ -13,7 +13,7 @@ function Contact() {
          
             <div class=" col-xs-12 col-sm-12 col-md-6 col-lg-6">
             <h2 >Contact Us</h2>
-            <p>info@paintpulp.com</p>
+            <a href="mailto:pue@paintpulp.com" className="nav-link PageLink">pue@paintpulp.com</a>
             <p>Dubai, UAE</p>
             
             <div className="ContactDetail">
@@ -27,11 +27,11 @@ function Contact() {
             </ul>
             </div>
            </div>
-
       <div class=" col-xs-12 col-sm-12 col-md-6 col-lg-6">
         <div className="FormContainer">
-    <form action="https://formspree.io/f/xayzebqg" method="POST">
+    <form action="https://formspree.io/f/xyyajkdo" method="POST">
    <div className="mb-4">
+   <input name="subject" type="hidden" value="Paint Pulp" />
   <div class="row "  >
     <div class=" col-xs-5  col-lg-4" >
     <label for="name" className="form-label">Name</label>

@@ -125,7 +125,7 @@ function OurGallery() {
 <div class="CustomRow clearfix " >
  {GalleryList.map((item, index) => (
      <div class=" CustomCol CustomPadding" style={item.style}>
-      <Link style={{display:'inline-block'}}  id={item.id+index} className={isHover!= ''?isHover!= `${item.id}-${index}-img` ? 'GrayImg  ' : 'ColoredImg': 'ColoredImg'}  onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} > 
+      <Link   id={item.id+index} className={isHover!= ''?isHover!= `${item.id}-${index}-img` ? 'GrayImg  ' : 'ColoredImg': 'ColoredImg'}  onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} > 
         {console.log(isHover)}
         <img className='img-fluid' id={`${item.id}-${index}-img`} src={item.src} />
     </Link>

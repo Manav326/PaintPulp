@@ -31,8 +31,8 @@ function Footer() {
    <h4>Email Us</h4>
    <ul className='SocialLink'>
     <li>
-   <a href='#' className='EmailUs' >info@paintPulp.com</a>
-
+ 
+   <a href="mailto:pue@paintpulp.com" className='EmailUs' >pue@paintpulp.com</a>
    </li>
    </ul>
    </div>

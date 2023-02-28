@@ -34,18 +34,18 @@ function About() {
             <li>
             <div className="ExhibitionsYear">2023: </div>
             <div className="ExhibitionsListItemContainer">
-            <span className="ExhibitionsListItem "><span className='ExhibitionsMonth'>January </span>	<span className='ExhibitionsDetail'>- Group exhibition at Silk factory art gallery, Georgia, Tblisi</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>March </span><span className='ExhibitionsDetail'>- Solo exhibition at World art dubai, Dubai, UAE</span></span>
+            <span className="ExhibitionsListItem  clearfix"><span className='ExhibitionsMonth'>January </span>	<span className='ExhibitionsDetail'>- Group exhibition at Silk factory art gallery, Georgia, Tblisi</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>March </span><span className='ExhibitionsDetail'>- Solo exhibition at World art dubai, Dubai, UAE</span></span>
             </div>
             </li>
 
             <li>
             <div className="ExhibitionsYear">2022: </div>
             <div className="ExhibitionsListItemContainer">
-            <span className="ExhibitionsListItem "><span className='ExhibitionsMonth'>June </span>	<span className='ExhibitionsDetail'>- Participated in Dubai Index, UAE</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>July </span><span className='ExhibitionsDetail'>- Group exhibition at Boushari art gallery, Kuwait</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>September </span><span className='ExhibitionsDetail'>- Featured in Artist talk magazine, UK</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>December </span><span className='ExhibitionsDetail'>- Group exhibition at Jumeirah Boxpark for UAE national day, Dubai, UAE</span></span>
+            <span className="ExhibitionsListItem  clearfix"><span className='ExhibitionsMonth'>June </span>	<span className='ExhibitionsDetail'>- Participated in Dubai Index, UAE</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>July </span><span className='ExhibitionsDetail'>- Group exhibition at Boushari art gallery, Kuwait</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>September </span><span className='ExhibitionsDetail'>- Featured in Artist talk magazine, UK</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>December </span><span className='ExhibitionsDetail'>- Group exhibition at Jumeirah Boxpark for UAE national day, Dubai, UAE</span></span>
             </div>
             </li>
 
@@ -53,32 +53,32 @@ function About() {
             <li>
             <div className="ExhibitionsYear">2021: </div>
             <div className="ExhibitionsListItemContainer">
-            <span className="ExhibitionsListItem "><span className='ExhibitionsMonth'>March  </span>	<span className='ExhibitionsDetail'>- Group exhibition at World art dubai, Dubai, UAE<br/> - Participated in DIFC art night,  Dubai, UAE</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>July  </span><span className='ExhibitionsDetail'>- Group exhibition at Boushari art gallery, Kuwait</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>November  </span><span className='ExhibitionsDetail'>- Featured in Emerging scene art prize at World trade center, Dubai, UAE</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>December  </span><span className='ExhibitionsDetail'>- Group exhibition at Pullman hotel Businessbay, Dubai, UAE</span></span>
+            <span className="ExhibitionsListItem  clearfix"><span className='ExhibitionsMonth'>March  </span>	<span className='ExhibitionsDetail'>- Group exhibition at World art dubai, Dubai, UAE<br/> - Participated in DIFC art night,  Dubai, UAE</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>July  </span><span className='ExhibitionsDetail'>- Group exhibition at Boushari art gallery, Kuwait</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>November  </span><span className='ExhibitionsDetail'>- Featured in Emerging scene art prize at World trade center, Dubai, UAE</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>December  </span><span className='ExhibitionsDetail'>- Group exhibition at Pullman hotel Businessbay, Dubai, UAE</span></span>
             </div>
             </li>
 
             <li>
             <div className="ExhibitionsYear">2020: </div>
             <div className="ExhibitionsListItemContainer">
-            <span className="ExhibitionsListItem "><span className='ExhibitionsMonth'>February  </span>	<span className='ExhibitionsDetail'>- Group exhibition at Park Street, Kolkata, India</span></span>
-            <span className="ExhibitionsListItem"><span className='ExhibitionsMonth'>March </span><span className='ExhibitionsDetail'>- Participated in DIFC art night,  Dubai, UAE</span></span>
+            <span className="ExhibitionsListItem  clearfix"><span className='ExhibitionsMonth'>February  </span>	<span className='ExhibitionsDetail'>- Group exhibition at Park Street, Kolkata, India</span></span>
+            <span className="ExhibitionsListItem clearfix"><span className='ExhibitionsMonth'>March </span><span className='ExhibitionsDetail'>- Participated in DIFC art night,  Dubai, UAE</span></span>
             </div>
             </li>
 
             <li>
             <div className="ExhibitionsYear">2019: </div>
             <div className="ExhibitionsListItemContainer">
-            <span className="ExhibitionsListItem "><span className='ExhibitionsMonth'>April  </span>	<span className='ExhibitionsDetail'>- Solo exhibition at Chemould art gallery, Kolkata,India</span></span>
+            <span className="ExhibitionsListItem  clearfix"><span className='ExhibitionsMonth'>April  </span>	<span className='ExhibitionsDetail'>- Solo exhibition at Chemould art gallery, Kolkata,India</span></span>
            
             </div>
             </li>
             <li>
             <div className="ExhibitionsYear">2016-18 </div>
             <div className="ExhibitionsListItemContainer">
-            <span className="ExhibitionsListItem "><span className='ExhibitionsMonth'>  </span>	<span className='ExhibitionsDetail'>- Participated in many group exhibitions</span></span>
+            <span className="ExhibitionsListItem  clearfix"><span className='ExhibitionsMonth'>  </span>	<span className='ExhibitionsDetail'>- Participated in many group exhibitions</span></span>
             
             </div>
             </li>

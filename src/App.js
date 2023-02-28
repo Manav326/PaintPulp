@@ -7,7 +7,7 @@ import {
 
 import Home from "./Directory/Home";
 import Gallery from "./Directory/gallery";
-import News from "./Directory/News";
+// import News from "./Directory/News";
 import About from "./Directory/About";
 import Contact from "./Directory/Contact";
 import Nft from "./Directory/nft";
@@ -62,6 +62,10 @@ import TheDhow from './OurGallery/GalleryDetailPages/DetailTheDhow';
 import TheLightMan from './OurGallery/GalleryDetailPages/DetailTheLightMan';
 
 import WoodenHouse from './OurGallery/GalleryDetailPages/DetailWoodenHouse';
+import TnakyouPage from './Directory/Thankou';
+
+
+
 
 
 import { useEffect } from "react";
@@ -99,7 +103,7 @@ function App() {
    <Routes>
    <Route exact path="/"  element={<Home/>}/>
    <Route exact path="/gallery"  element={<Gallery/>}/>
-   <Route exact path="/news"  element={<News/>}/>
+   {/* <Route exact path="/news"  element={<News/>}/> */}
    <Route exact path="/about"  element={<About/>}/>
    <Route exact path="/contact"  element={<Contact/>}/>
 
@@ -140,7 +144,7 @@ function App() {
   <Route exact path="/the-dhow"  element={<TheDhow/>}/>
   <Route exact path="/the-light-man"  element={<TheLightMan/>}/>
   <Route exact path="/wooden-house"  element={<WoodenHouse/>}/>
-
+  <Route exact path="/thank-you"  element={<TnakyouPage/>}/>
 
 
    </Routes>

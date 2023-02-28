@@ -87,7 +87,7 @@ function AwakeningCity() {
 <li className="PaintingDetailList"><span className="ListLabel">Frame:</span> <span className="ListValue">Without frame</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Year of Creation:</span> <span className="ListValue">2021</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Certificate of Authencity:</span> <span className="ListValue">Yes</span></li>
-<li className="PaintingDetailList"><span className="ListLabel">Enquiry:</span> <span className="ListValue">info@paintpulp.com</span></li>
+<li className="PaintingDetailList"><span className="ListLabel">Enquiry:</span> <span className="ListValue">pue@paintpulp.com</span></li>
 
 </ul>
 

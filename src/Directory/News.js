@@ -5,12 +5,12 @@ import ReactDOM from "react-dom";
 import Carousel from "react-elastic-carousel";
 import Item from "./Item";
 import NewsComponent from '../CommonComponent/NewsComponent';
-import Thumb1 from '../../src/NewsThumb/thumb1.png'
-import Thumb2 from '../../src/NewsThumb/thumb2.png'
-import Thumb3 from '../../src/NewsThumb/thumb3.png'
-import Thumb4 from '../../src/NewsThumb/thumb1.png'
-import Thumb5 from '../../src/NewsThumb/thumb2.png'
-import Thumb6 from '../../src/NewsThumb/thumb3.png'
+// import Thumb1 from '../../src/NewsThumb/thumb1.png'
+// import Thumb2 from '../../src/NewsThumb/thumb2.png'
+// import Thumb3 from '../../src/NewsThumb/thumb3.png'
+// import Thumb4 from '../../src/NewsThumb/thumb1.png'
+// import Thumb5 from '../../src/NewsThumb/thumb2.png'
+// import Thumb6 from '../../src/NewsThumb/thumb3.png'
 
 
 
@@ -38,7 +38,7 @@ function News() {
       key: 'WorldArtDubai',
       routeTo: '/', 
       id:'WorldArtDubai',
-     src:Thumb1,
+     src:'',
      alt:'WorldArtDubai',
      title: 'World Art Dubai 2022'
 
@@ -48,7 +48,7 @@ function News() {
       key: 'EmergingSceneArtPrize',
       routeTo: '/', 
       id:'EmergingSceneArtPrize',
-      src:Thumb2,
+      src:'',
      alt:'EmergingSceneArtPrize',
      title:'Emerging Scene Art Prize 2022'
 
@@ -58,7 +58,7 @@ function News() {
       key: 'DubaiIndexDesign',
       routeTo: '/', 
       id:'DubaiIndexDesign',
-     src:Thumb3,
+     src:'',
      alt:'Dubai Index Design 2022',
      title:'Dubai Index Design 2022',
     }, 
@@ -68,7 +68,7 @@ function News() {
       key: 'DubaiIndexDesign',
       routeTo: '/', 
       id:'DubaiIndexDesign',
-     src:Thumb4,
+     src:'',
      alt:'Dubai Index Design 2022',
      title:'Dubai Index Design 2022',
     }, 
@@ -78,7 +78,7 @@ function News() {
       key: 'DubaiIndexDesign',
       routeTo: '/', 
       id:'DubaiIndexDesign',
-     src:Thumb5,
+     src:'',
      alt:'Dubai Index Design 2022',
      title:'Dubai Index Design 2022',
     }, 
@@ -88,7 +88,7 @@ function News() {
       key: 'DubaiIndexDesign',
       routeTo: '/', 
       id:'DubaiIndexDesign',
-     src:Thumb6,
+     src:'',
      alt:'Dubai Index Design 2022',
      title:'Dubai Index Design 2022',
     }, 
@@ -96,7 +96,7 @@ function News() {
 
     return (
       <MainContainer>
-        <h1>Latest News</h1>
+        {/* <h1>Latest News</h1>
       <div className="NewsContainerRow">
       <div className="carousel-wrapper">
         <Carousel breakPoints={breakPoints}>
@@ -116,7 +116,7 @@ function News() {
           ))}
         </Carousel>
       </div>
-      </div>
+      </div> */}
     
 
      </MainContainer>
