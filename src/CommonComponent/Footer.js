@@ -1,6 +1,5 @@
 
-        import LatestPaintingImg1 from '../../src/Images/LAtestGallery1.png'
-  
+
 
 function Footer() {
     return (
@@ -25,13 +24,11 @@ function Footer() {
    </ul>
    </div>
 
-
    <div class="col"  >
    
    <h4>Email Us</h4>
    <ul className='SocialLink'>
     <li>
- 
    <a href="mailto:pue@paintpulp.com" className='EmailUs' >pue@paintpulp.com</a>
    </li>
    </ul>

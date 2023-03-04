@@ -1,8 +1,7 @@
 
-  import  LatestPainting from './LatestPainting';
-  import  LatestPaintingText from './LatestPaintingText';
+
   import  OurGallery from './OurGallery';
-  import LatestNews from './LatestNews';
+
   import Video from './Video';
 
 

@@ -72,11 +72,11 @@ function OurGallery() {
   
     { 
       key: 'BlueJay',
-      routeTo: '/blue-jay', 
+      routeTo: '/blueJay', 
       id:'BlueJay',
      src:Thumb4,
-     alt:'Blue Jay',
-     title:'Blue Jay',
+     alt:'BlueJay',
+     title:'BlueJay',
    
     }, 
 
@@ -95,7 +95,7 @@ function OurGallery() {
     { 
       key: 'Cardinal2',
       routeTo: '/cardinal2', 
-      id:'Cardinal2',
+      id:'Cardinal1',
      src:Thumb6,
      alt:'Cardinal2',
      title:'Cardinal2',
@@ -125,7 +125,7 @@ function OurGallery() {
 <div class="CustomRow clearfix " >
  {GalleryList.map((item, index) => (
      <div class=" CustomCol CustomPadding" style={item.style}>
-      <Link   id={item.id+index} className={isHover!= ''?isHover!= `${item.id}-${index}-img` ? 'GrayImg  ' : 'ColoredImg': 'ColoredImg'}  onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} > 
+      <Link  to={item.routeTo}  id={item.id+index} className={isHover!= ''?isHover!= `${item.id}-${index}-img` ? 'GrayImg  ' : 'ColoredImg': 'ColoredImg'}  onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} > 
         {console.log(isHover)}
         <img className='img-fluid' id={`${item.id}-${index}-img`} src={item.src} />
     </Link>
