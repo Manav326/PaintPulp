@@ -68,9 +68,10 @@ function Macow() {
 
        <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
-       <h2 className="PaintingDetailTitle">Macow</h2>
+       <h2 className="PaintingDetailTitle">Macaw</h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >  Macaws are a group of New World parrots that are long-tailed and often colorful. 
+Macaws are intelligent, social birds and vocalize to communicate within the flock, mark territory, and identify one another.The majority of macaws are now endangered in the wild, several are highly or critically endangered - mainly due to the rapid rate of deforestation, hunting, and the illegal trapping for the pet trade
 
 </p>
 

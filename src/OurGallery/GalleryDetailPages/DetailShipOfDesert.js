@@ -84,7 +84,7 @@ function        ShipOfDesert() {
 
 <p>The camel handlers try their best to make the camels look as beautiful as possible. A common accessory in the ensemble is the drape which they put on a camel. The designs, forms and colors involved are extraordinary. They all have thread works which display the expertise of the traditional craftsmen.</p>
 
-<p>So I wanted to capture that essence with bold strokes, bright colors, graphical forms by using needles and threads to make it look extra realistic. It is my humble attempt to do justice to the beauty of the ship of the desert.
+<p>So I wanted to capture that essence with bold strokes, bright colors, graphical forms by using needles and threads to make it look extra realistic. It is my humble attempt to do justice to the beauty of the ship of the desert
 
 </p>
 

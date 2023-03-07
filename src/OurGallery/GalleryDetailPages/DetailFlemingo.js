@@ -68,10 +68,9 @@ function Flemingo() {
 
        <div class="col-xs-12  col-sm-7 col-lg-7">
         <div className="PaintingDetailDescContainer">
-       <h2 className="PaintingDetailTitle">Flemingo</h2>
+       <h2 className="PaintingDetailTitle">Flamingo</h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
-
+       <p >A type of wading bird, have long legs, they can wade into much deeper water than most other birds. Webbed feet support them on soft mud. When the water is beyond their wading depth, flamingos swim at the surface while feeding. Webbed feet allow the flamingo to swim quite readily. They are threatened by habitat loss due to mineral mining and human disturbance. 
 </p>
 
 </div>

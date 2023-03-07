@@ -70,7 +70,8 @@ function Kingfisher() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Kingfisher</h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >  Kingfishers are very beautiful birds. There are many different species of kingfisher found all around the world but are chiefly tropical and each one is extremely photogenic. Most of these forest species are threatened by habitat loss caused by forest clearance or degradation and in some cases by introduced species.
+
 
 </p>
 
@@ -78,7 +79,7 @@ function Kingfisher() {
 
 
 <ul className="PaintingDetail">
-<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">20cm X 20cm</span></li>
+<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">40cm X 40cm</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Medium:</span> <span className="ListValue">Acrylic </span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Material:</span> <span className="ListValue">Canvas</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Frame:</span> <span className="ListValue">No</span></li>

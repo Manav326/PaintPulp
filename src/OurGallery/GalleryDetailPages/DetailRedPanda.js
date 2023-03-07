@@ -70,7 +70,7 @@ function RedPanda() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Red Panda </h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >  The red panda is a small, arboreal mammal with reddish-brown fur and a bushy tail. They rely heavily on bamboo and tree nests, but their numbers are declining due to habitat loss from deforestation. The loss of nesting trees and bamboo due to clearing of their forest homes poses a serious threat to their survival
 
 </p>
 
@@ -78,7 +78,7 @@ function RedPanda() {
 
 
 <ul className="PaintingDetail">
-<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">20cm X 20cm</span></li>
+<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">40cm X 40cm</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Medium:</span> <span className="ListValue">Acrylic</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Material:</span> <span className="ListValue">Canvas</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Frame:</span> <span className="ListValue">No</span></li>

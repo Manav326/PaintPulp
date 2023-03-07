@@ -81,9 +81,11 @@ function  Aquaphoenix() {
        <h2 className="PaintingDetailTitle">Aquaphoenix</h2>
        <div className="PaintingDetailDesc">
        <p > Jellyfish are an integral part of the oceanic ecosystem. It has this unique lifecycle where it sinks to the bottom of the ocean floor after death, and then its cells regenerate to form polyps from which a new jellyfish rises again, thus making them immortal. This phenomenon is quite similar to the mythical creature phoenix, which is born again from its own ashes.
+
 </p>
 
-<p>While jellyfish are generally transparent blobs, here I have tried to capture the mythical correlation by using phoneixesque colours and bold strokes. Along with that, I have also portrayed.</p>
+<p>While jellyfish are generally transparent blobs, here I have tried to capture the mythical correlation by using phoneixesque colours and bold strokes. Along with that, I have also portrayed.
+</p>
 </div>
 
 

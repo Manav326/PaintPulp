@@ -70,7 +70,7 @@ function Osprey() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Osprey</h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p > The osprey, also called sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor reaching more than 60 cm in length and 180 cm across the wings. Pesticides, shoreline development and declining water quality continue to threaten the abundance and availability of food and nest sites for ospreys.
 
 </p>
 

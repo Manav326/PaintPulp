@@ -70,7 +70,8 @@ function Zebra() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Zebra</h2>
        <div className="PaintingDetailDesc">
-       <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >Zebras are African equids known for their black and white striped coat. They live in grasslands, savannas, and scrublands. Habitat loss remains a major challenge for zebra conservation, as human encroachment, agricultural practices, and livestock grazing continue to threaten their populations.
+
 
 </p>
 

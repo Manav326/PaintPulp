@@ -70,7 +70,7 @@ function Lotus() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Lotus</h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >The lotus flower symbolizes purity, overcoming adversity, and rebirth. The exact symbolism of this aquatic flower varies between cultures and religions, but all of the lotus flower's meanings are positive in nature.
 
 </p>
 

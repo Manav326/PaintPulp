@@ -70,7 +70,8 @@ function EgrettaPicata() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Egretta Picata</h2>
        <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >  Egretta picata also known as the pied egret is a bird found in costala and subcoastal areas of monsoonal northern Australia as well as some parts of Wallacea and New Guinea. In a few species are considered endangered or critically endangered, and some species are become extinct in recent years. They are mostly threatened by loss of habitat.
+
 
 </p>
 
@@ -85,10 +86,6 @@ function EgrettaPicata() {
 
 <li className="PaintingDetailList"><span className="ListLabel">Certificate of Authencity:</span> <span className="ListValue">Yes</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Enquiry:</span> <span className="ListValue"><a href="mailto:pue@paintpulp.com" className="nav-link PageLink">pue@paintpulp.com</a></span></li>
-
-
-
-
 
 </ul>
 </div>

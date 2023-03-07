@@ -69,12 +69,10 @@ function    BoatsOnARiver() {
        <div class="col-xs-12  col-sm-7 col-lg-7">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle"> Boats On A River</h2>
-       <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
-
-</p>
-
-</div>
+       {/* <div className="PaintingDetailDesc">
+        <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       </p> 
+       </div> */}
 
 
 <ul className="PaintingDetail">

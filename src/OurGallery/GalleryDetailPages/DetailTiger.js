@@ -70,7 +70,7 @@ function Tiger() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Tiger</h2>
        <div className="PaintingDetailDesc">
-       <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p > Tigers are the largest cat species and are members of the Panthera genus. They have lost 95% of their historical range due to human activities such as forest clearing for agriculture and timber, road construction, and other development. Tiger habitats have been destroyed, degraded, and fragmented as a result, posing serious threats to their survival.
 
 </p>
 

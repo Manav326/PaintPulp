@@ -68,17 +68,19 @@ function YellowParrot() {
 
        <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
-       <h2 className="PaintingDetailTitle">Yellow Parrot</h2>
-       <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <h2 className="PaintingDetailTitle">Sun conures</h2>
+    <div className="PaintingDetailDesc">
+       <p > Sun conures is one of the more popular conures of its size due to its stunning colorful plumage and its exceptional quality as a companion bird. They are lively, vocal, and expressive; this is a bird best known for its beauty and its big mouth.
+Sun conures are currently endangered, with their population numbers declining rapidly due to loss of habitat, hunting for plumage, and being excessively wild caught.
+
 
 </p>
 
-</div>
+</div> 
 
 
 <ul className="PaintingDetail">
-<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">20cm X 20cm</span></li>
+<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">40cm X 40cm</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Medium:</span> <span className="ListValue">Acrylic</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Material:</span> <span className="ListValue">Canvas</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Frame:</span> <span className="ListValue">No</span></li>

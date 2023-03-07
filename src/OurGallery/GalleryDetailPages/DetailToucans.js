@@ -70,7 +70,8 @@ function Toucans() {
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Toucans</h2>
        <div className="PaintingDetailDesc">
-       <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+       <p >Toucans are best known for their large, colorful bills, which can be four times the size of their head. They use their beak to reach food far out on branches or deep into tree cavities. Finding and catching food is aided by a toucan's long tongue, which can measure up to 5.9 inches. <strong>Deforestation in the Amazon basin for cattle ranching and soy production</strong> is of particular concern for the species, and other threats include hunting and illegal wildlife trade.
+
 
 </p>
 
