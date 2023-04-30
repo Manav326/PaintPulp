@@ -9,6 +9,8 @@ import Thumb3 from '../../src/OurGallery/Animal/Zebra/1.jpg'
 import Thumb4 from '../../src/OurGallery/Bird/BlueJay/1.jpg'
 import Thumb5 from '../../src/OurGallery/Bird/Cardinal1/1.jpg'
 
+
+
 import Thumb6 from '../../src/OurGallery/Bird/Cardinal2/1.jpg'
 import Thumb7 from '../../src/OurGallery/Bird/Cardinal3/1.jpg'
 import Thumb8 from '../../src/OurGallery/Bird/Cardinal4/1.jpg'
@@ -30,19 +32,34 @@ import Thumb20 from '../../src/OurGallery/Flower/RedGazania/1.jpg'
 import Thumb21 from '../../src/OurGallery/Flower/Sunflower/1.jpg'
 
 import Thumb22 from '../../src/OurGallery/OtherPaintings/Aquaphoenix/1.jpg'
-import Thumb23 from '../../src/OurGallery/OtherPaintings/AwakeningCity/1.jpg'
-import Thumb24 from '../../src/OurGallery/OtherPaintings/BoatsOnARiver/1.jpg'
-import Thumb25 from '../../src/OurGallery/OtherPaintings/CityMetro/1.jpg'
-import Thumb26 from '../../src/OurGallery/OtherPaintings/GardenOfHappiness/1.jpg'
-import Thumb27 from '../../src/OurGallery/OtherPaintings/Joy/1.jpg'
 
-import Thumb28 from '../../src/OurGallery/OtherPaintings/RhythmOfEcstasy/1.jpg'
-import Thumb29 from '../../src/OurGallery/OtherPaintings/Rove/1.jpg'
-import Thumb30 from '../../src/OurGallery/OtherPaintings/SailingAway/1.jpg'
-import Thumb31 from '../../src/OurGallery/OtherPaintings/ShipOfDesert/1.jpg'
-import Thumb32 from '../../src/OurGallery/OtherPaintings/TheDhow/1.jpg'
-import Thumb33 from '../../src/OurGallery/OtherPaintings/TheLightMan/1.jpg'
-import Thumb34 from '../../src/OurGallery/OtherPaintings/WoodenHouse/1.jpg'
+import Thumb23 from '../../src/OurGallery/OtherPaintings/GardenOfHappiness/1.jpg'
+
+import Thumb24 from '../../src/OurGallery/Animal/Deer/1.jpg'
+import Thumb25 from '../../src/OurGallery/Animal/Lion/1.jpg'
+import Thumb26 from '../../src/OurGallery/Aquamarine/1.jpg'
+import Thumb27 from '../../src/OurGallery/Butterflies/1.jpg'
+
+import Thumb28 from '../../src/OurGallery/Flower/BirdofParadise/1.jpg'
+import Thumb29 from '../../src/OurGallery/Flower/BloomWithGrace/1.jpg'
+import Thumb30 from '../../src/OurGallery/Flower/BlueAnemonesBlanda/1.jpg'
+
+import Thumb31 from '../../src/OurGallery/Flower/GoldenQueen/1.jpg'
+import Thumb32 from '../../src/OurGallery/Flower/OrangeDaisy/1.jpg'
+import Thumb33 from '../../src/OurGallery/Flower/RedWildflower/1.jpg'
+
+import Thumb34 from '../../src/OurGallery/OtherPaintings/ShipOfDesert/1.jpg'
+
+import Thumb35 from '../../src/OurGallery/OtherPaintings/Joy/1.jpg'
+import Thumb36 from '../../src/OurGallery/OtherPaintings/AwakeningCity/1.jpg'
+import Thumb37 from '../../src/OurGallery/OtherPaintings/BoatsOnARiver/1.jpg'
+import Thumb38 from '../../src/OurGallery/OtherPaintings/CityMetro/1.jpg'
+import Thumb39 from '../../src/OurGallery/OtherPaintings/RhythmOfEcstasy/1.jpg'
+import Thumb40 from '../../src/OurGallery/OtherPaintings/Rove/1.jpg'
+import Thumb41 from '../../src/OurGallery/OtherPaintings/SailingAway/1.jpg'
+import Thumb42 from '../../src/OurGallery/OtherPaintings/TheDhow/1.jpg'
+import Thumb43 from '../../src/OurGallery/OtherPaintings/TheLightMan/1.jpg'
+import Thumb44 from '../../src/OurGallery/OtherPaintings/WoodenHouse/1.jpg'
 
 
 
@@ -104,6 +121,26 @@ function Work() {
      alt:'Zebra',
      title:'Zebra',
     
+    }, 
+
+    { 
+      key: 'Deer',
+      routeTo: '/deer', 
+      id:'Deer',
+     src:Thumb24,
+     alt:'Deer',
+     title:'Deer',
+     
+    }, 
+
+    { 
+      key: 'Lion',
+      routeTo: '/lion', 
+      id:'Lion',
+     src:Thumb25,
+     alt:'Lion',
+     title:'Lion',
+     
     }, 
 
   
@@ -315,102 +352,92 @@ function Work() {
      
     }, 
 
+ 
+
+   
 
     { 
-      key: 'AwakeningCity',
-      routeTo: '/awakeningCity', 
-      id:'AwakeningCity',
-     src:Thumb23,
-     alt:'AwakeningCity',
-     title:'AwakeningCity',
-     
-    }, 
-
-
-    
-    
-
-
-
-
-    
-
-
-
-
-    { 
-      key: 'BoatsOnARiver',
-      routeTo: '/boats-on-a-river', 
-      id:'BoatsOnARiver',
-     src:Thumb24,
-     alt:'BoatsOnARiver',
-     title:'BoatsOnARiver',
-     
-    }, 
-
-    { 
-      key: 'CityMetro',
-      routeTo: '/city-metro', 
-      id:'CityMetro',
-     src:Thumb25,
-     alt:'City Metro',
-     title:'City Metro',
-     
-    }, 
-
-
-    { 
-      key: 'GardenOfHappiness',
-      routeTo: '/garden-of-happiness', 
-      id:'GardenOfHappiness',
+      key: 'Aquamarine',
+      routeTo: '/aquamarine', 
+      id:'Aquamarine',
      src:Thumb26,
-     alt:'Garden Of Happiness',
-     title:'Garden Of Happiness',
+     alt:'Aquamarine',
+     title:'Aquamarine',
      
     }, 
 
+
+ 
+
     { 
-      key: 'Joy',
-      routeTo: '/joy', 
-      id:'Joy',
+      key: 'Butterflies',
+      routeTo: '/butterflies', 
+      id:'Butterflies',
      src:Thumb27,
-     alt:'Joy',
-     title:'Joy',
+     alt:'Butterflies',
+     title:'Butterflies',
      
     }, 
 
     { 
-      key: 'RhythmOfEcstasy',
-      routeTo: '/rhythm-of-ecstasy', 
-      id:'RhythmOfEcstasy',
+      key: 'BirdofParadise',
+      routeTo: '/bird-of-paradise', 
+      id:'BirdofParadise',
      src:Thumb28,
-     alt:'Rhythm Of Ecstasy',
-     title:'Rhythm Of Ecstasy',
+     alt:'BirdofParadise',
+     title:'BirdofParadise',
      
     }, 
     
-    
-    
-    
-
-    
     { 
-      key: 'Rove',
-      routeTo: '/rove', 
-      id:'Rove',
+      key: 'BloomWithGrace',
+      routeTo: '/bloom-with-grace', 
+      id:'BloomWithGrace',
      src:Thumb29,
-     alt:'Rove',
-     title:'Rove',
+     alt:'BloomWithGrace',
+     title:'BloomWithGrace',
      
     }, 
 
     { 
-      key: 'SailingAway',
-      routeTo: '/sailing-away', 
-      id:'SailingAway',
+      key: 'BlueAnemonesBlanda',
+      routeTo: '/blue-anemones-blanda', 
+      id:'BlueAnemonesBlanda',
      src:Thumb30,
-     alt:'Sailing Away',
-     title:'Sailing Away',
+     alt:'BlueAnemonesBlanda',
+     title:'BlueAnemonesBlanda',
+     
+    }, 
+
+    { 
+      key: 'GoldenQueen',
+      routeTo: '/golden-queen', 
+      id:'GoldenQueen',
+     src:Thumb31,
+     alt:'GoldenQueen',
+     title:'GoldenQueen',
+     
+    }, 
+
+    { 
+      key: 'OrangeDaisy',
+      routeTo: '/orange-daisy', 
+      id:'OrangeDaisy',
+     src:Thumb32,
+     alt:'OrangeDaisy',
+     title:'OrangeDaisy',
+     
+    }, 
+
+
+  
+    { 
+      key: 'RedWildflower',
+      routeTo: '/red-wild-flower', 
+      id:'RedWildflower',
+     src:Thumb33,
+     alt:'RedWildflower',
+     title:'RedWildflower',
      
     }, 
 
@@ -418,31 +445,9 @@ function Work() {
       key: 'ShipOfDesert',
       routeTo: '/ship-of-desert', 
       id:'ShipOfDesert',
-     src:Thumb31,
-     alt:'Ship Of Desert',
-     title:'Ship Of Desert',
-     
-    }, 
-
-    { 
-      key: 'TheDhow',
-      routeTo: '/the-dhow', 
-      id:'TheDhow',
-     src:Thumb32,
-     alt:'The Dhow',
-     title:'The Dhow',
-     
-    }, 
-
-
-  
-    { 
-      key: 'TheLightMan',
-      routeTo: '/the-light-man', 
-      id:'TheLightMan',
-     src:Thumb33,
-     alt:'The Light Man',
-     title:'The Light Man',
+     src:Thumb34,
+     alt:'ShipOfDesert',
+     title:'ShipOfDesert',
      
     }, 
 
@@ -450,11 +455,123 @@ function Work() {
       key: 'WoodenHouse',
       routeTo: '/wooden-house', 
       id:'WoodenHouse',
-     src:Thumb34,
-     alt:'Wooden House',
-     title:'Wooden House',
+      src:Thumb44,
+     alt:'WoodenHouse',
+     title:'WoodenHouse',
+    
+    }, 
+
+
+
+       { 
+      key: 'AwakeningCity',
+      routeTo: '/awakening-city', 
+      id:'AwakeningCity',
+      src:Thumb36,
+     alt:'AwakeningCity',
+     title:'AwakeningCity',
+    
+
+    }, 
+
+       { 
+      key: 'BoatsOnARiver',
+      routeTo: '/boats-on-a-river', 
+      id:'BoatsOnARiver',
+      src:Thumb37,
+     alt:'BoatsOnARiver',
+     title:'BoatsOnARiver',
+    
+
+    }, 
+
+       { 
+      key: 'CityMetro',
+      routeTo: '/city-metro', 
+      id:'CityMetro',
+      src:Thumb38,
+     alt:'CityMetro',
+     title:'CityMetro',
+    
+
+    }, 
+
+       { 
+      key: 'RhythmOfEcstasy',
+      routeTo: '/rhythm-of-ecstasy', 
+      id:'RhythmOfEcstasy',
+      src:Thumb39,
+     alt:'RhythmOfEcstasy',
+     title:'RhythmOfEcstasy',
+    
+
+    }, 
+
+       { 
+      key: 'Rove',
+      routeTo: '/rove', 
+      id:'Rove',
+      src:Thumb40,
+     alt:'Rove',
+     title:'Rove',
+    
+
+    }, 
+
+       { 
+      key: 'SailingAway',
+      routeTo: '/sailing-Aaway', 
+      id:'SailingAway',
+      src:Thumb41,
+     alt:'SailingAway',
+     title:'SailingAway',
+    
+
+    }, 
+
+       { 
+      key: 'TheDhow',
+      routeTo: '/the-dhow', 
+      id:'TheDhow',
+      src:Thumb42,
+     alt:'TheDhow',
+     title:'TheDhow',
+    
+
+    }, 
+       { 
+      key: 'TheLightMan',
+      routeTo: '/the-light-man', 
+      id:'TheLightMan',
+      src:Thumb43,
+     alt:'TheLightMan',
+     title:'TheLightMan',
+    
+    }, 
+  
+
+    { 
+      key: 'Joy',
+      routeTo: '/joy', 
+      id:'Joy',
+      src:Thumb35,
+     alt:'Joy',
+     title:'Joy',
+    
+
+    }, 
+
+
+    { 
+      key: 'GardenOfHappiness',
+      routeTo: '/garden-of-happiness', 
+      id:'GardenOfHappiness',
+     src:Thumb23,
+     alt:'Garden Of Happiness',
+     title:'Garden Of Happiness',
      
     }, 
+
   
 
 ]

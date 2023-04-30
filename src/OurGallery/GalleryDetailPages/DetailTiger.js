@@ -73,6 +73,7 @@ function Tiger() {
        <p > Tigers are the largest cat species and are members of the Panthera genus. They have lost 95% of their historical range due to human activities such as forest clearing for agriculture and timber, road construction, and other development. Tiger habitats have been destroyed, degraded, and fragmented as a result, posing serious threats to their survival.
 
 </p>
+<p>#TheManyShadesofOurPlanet</p>
 
 </div>
 

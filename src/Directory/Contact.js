@@ -21,9 +21,9 @@ function Contact() {
               <li>
               <a href='https://www.instagram.com/paint_pulp/?igshid=YmMyMTA2M2Y%3D' className="SocialIcon IconInsta" ></a>
               </li>
-              <li>
+              {/* <li>
              <a href='https://www.facebook.com/piu.majumder.18?mibextid=LQQJ4d' className="SocialIcon IconFaceBook" ></a>
-            </li>
+            </li> */}
             </ul>
             </div>
            </div>

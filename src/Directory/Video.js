@@ -20,7 +20,7 @@ function Video() {
 
 
 
- {/* <video className='Video' src={Video1} poster={VideoThumbnail}   autoPlay  loop muted  playsinline  />  */}
+       {/* <video className='Video' src={Video1} poster={VideoThumbnail}   autoPlay  loop muted  playsinline  />  */}
         {/* <div className="BannerCaption ">
             <div className='CaptionMainTitle'>  I paint emotion on canvas.</div>
             <button type="button" class="btn btn-lg  btn-outline-primary">Contact us</button>

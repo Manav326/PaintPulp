@@ -18,9 +18,9 @@ function Footer() {
    <a href='https://www.instagram.com/paint_pulp/?igshid=YmMyMTA2M2Y%3D' >Instagram</a>
   
    </li>
-   <li>
+   {/* <li>
    <a href='https://www.facebook.com/piu.majumder.18?mibextid=LQQJ4d' >Facebook</a>
-   </li>
+   </li> */}
    </ul>
    </div>
 

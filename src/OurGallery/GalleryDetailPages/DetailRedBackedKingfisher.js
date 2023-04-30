@@ -73,6 +73,7 @@ function RedBackedKingfisher() {
        <p > The red-backed kingfisher is a species of kingfisher in the subfamily Halcyoninae, also known as tree kingfishers. Most of these are forest species are threatened by habitat loss caused by forest clearance or degradation and in some cases by introduced species.
 
 </p>
+<p>#TheManyShadesofOurPlanet</p>
 
 </div>
 

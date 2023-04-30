@@ -73,6 +73,7 @@ function RedPanda() {
        <p >  The red panda is a small, arboreal mammal with reddish-brown fur and a bushy tail. They rely heavily on bamboo and tree nests, but their numbers are declining due to habitat loss from deforestation. The loss of nesting trees and bamboo due to clearing of their forest homes poses a serious threat to their survival
 
 </p>
+<p>#TheManyShadesofOurPlanet</p>
 
 </div>
 

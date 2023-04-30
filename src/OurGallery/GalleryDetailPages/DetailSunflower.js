@@ -69,12 +69,12 @@ function  Sunflower() {
        <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Sunflower</h2>
-       {/* <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+   <div className="PaintingDetailDesc">
+       <p > Sunflowers are annual plants. In Greek, helios means sun and anthos means flower, thus the name Sunflower. Sunflowers represent adoration, loyalty and longevity. Known as “happy” flowers, sunflowers are the perfect gift to bring joy to someone's day or as a treat for yourself.
 
 </p>
-
-</div> */}
+<p>#TheManyShadesofOurPlanet</p>
+</div> 
 
 
 <ul className="PaintingDetail">

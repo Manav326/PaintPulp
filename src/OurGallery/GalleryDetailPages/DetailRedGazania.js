@@ -69,13 +69,12 @@ function RedGazania() {
        <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Red Gazania</h2>
-       {/* <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+ <div className="PaintingDetailDesc">
+       <p > A native of South Africa, these heat-loving, drought tolerant beauties can be grown from Gazania seeds. Gazania Red Shades features 3 inch daisy-like blooms that have a rich mahogany red color. Gazania is also called a Treasure flower and it represents wealth and richness in a spiritual meaning in many cultures
 
 </p>
-
-</div> */}
-
+<p>#TheManyShadesofOurPlanet</p>
+</div> 
 
 <ul className="PaintingDetail">
 <li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">40cm X 40cm</span></li>

@@ -176,9 +176,9 @@ h1, .h1{font-size: 50px; line-height: 1.10;
       font-weight: 500;}
 
 .Logo{
-  width: 170px;
-  height: 60px;
-  background: url(../src/Images/PaintPulp.png) no-repeat left center;
+  width: 160px !important;
+  height: 85px !important;
+  background: url(../src/Images/PaintPulpFooter.png) no-repeat left center;
   background-size: 100% auto;
 }
 
@@ -497,7 +497,7 @@ opacity:0.5
 
 
 .LogoContainer{display: flex;}
-.CustomNav{align-items: center !important;}
+.CustomNav{align-items: center !important; margin-top: -16px;}
 .mobile-menu-icon{
 
   border: 0;
@@ -567,7 +567,7 @@ opacity:0.5
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .Logo{
-    width: 230px;
+    width: 180px;
    
   }
   .SocialLink li a{font-size: 1.6rem;}
@@ -657,7 +657,7 @@ opacity:0.5
 
   .HomeSlide1{height: 520px; }
   .navbar-nav .nav-link {font-size: 20px;   padding:0 18px !important; }
-  .Logo{width: 280px;   height: 60px;}
+  .Logo{width: 180px;   height: 60px;}
   .navbar-collapse{
     margin-top: 24px;
   }
@@ -716,7 +716,7 @@ opacity:0.5
       .MainContainer{
         padding: 240px 0 0 0 ;
       }
-      .Logo{width: 360px;   height: 85px;}
+      .Logo{width: 180px;   height: 80px;}
       .navbar-collapse{
         margin-top: 30px;
       }

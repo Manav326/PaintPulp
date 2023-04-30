@@ -69,12 +69,13 @@ function Woodpecker() {
        <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Woodpecker</h2>
-       {/* <div className="PaintingDetailDesc">
-       <p >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+   <div className="PaintingDetailDesc">
+       <p >Woodpeckers get its name from how they forage for food: they tap on tree trunks with their strong beaks and chisel holes in wood. The primary threat for these birds is habitat destruction. The overall number of older pines and the size of the forests have both decreased. The remaining forestland is highly fragmented, making it hard for new generations of birds to find suitable sites
 
 </p>
+<p>#TheManyShadesofOurPlanet</p>
 
-</div> */}
+</div> 
 
 
 <ul className="PaintingDetail">

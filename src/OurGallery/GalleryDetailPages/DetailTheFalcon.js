@@ -69,12 +69,13 @@ function TheFalcon() {
        <div class="col-xs-12  col-sm-7  col-lg-5">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">The Falcon</h2>
-       {/* <div className="PaintingDetailDesc">
-       <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+        <div className="PaintingDetailDesc">
+       <p > A falcon is a large hunting bird. Falcons are strong, with long wingspans and very sharp eyesight — not to mention their very sharp beaks. Falcons use their powerful wings and vision to spot prey while flying and swoop down on it. They can fly rapidly and change direction very quickly. Loss of habitat, shootings, egg collecting and other human disturbances, they are endangered now.
 
 </p>
+<p>#TheManyShadesofOurPlanet</p>
 
-</div> */}
+</div> 
 
 
 <ul className="PaintingDetail">

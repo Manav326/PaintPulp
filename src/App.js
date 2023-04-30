@@ -62,6 +62,42 @@ import TheDhow from './OurGallery/GalleryDetailPages/DetailTheDhow';
 import TheLightMan from './OurGallery/GalleryDetailPages/DetailTheLightMan';
 
 import WoodenHouse from './OurGallery/GalleryDetailPages/DetailWoodenHouse';
+
+
+
+
+import Deer from './OurGallery/GalleryDetailPages/DetailDeer';
+
+import Lion from './OurGallery/GalleryDetailPages/DetailLion';
+
+import Aquamarine from './OurGallery/GalleryDetailPages/DetailAquamarine';
+
+import Butterflies from './OurGallery/GalleryDetailPages/DetailButterflies';
+
+import BirdofParadise from './OurGallery/GalleryDetailPages/DetailBirdofParadise';
+
+import BloomWithGrace from './OurGallery/GalleryDetailPages/DetailBloomWithGrace';
+
+import BlueAnemonesBlanda from './OurGallery/GalleryDetailPages/DetailBlueAnemonesBlanda';
+
+import GoldenQueen from './OurGallery/GalleryDetailPages/DetailGoldenQueen';
+
+import OrangeDaisy from './OurGallery/GalleryDetailPages/DetailOrangeDaisy';
+
+import RedWildflower from './OurGallery/GalleryDetailPages/DetailRedWildflower';
+
+
+
+
+
+
+
+
+
+
+
+
+
 import TnakyouPage from './Directory/Thankou';
 
 
@@ -144,6 +180,21 @@ function App() {
   <Route exact path="/the-dhow"  element={<TheDhow/>}/>
   <Route exact path="/the-light-man"  element={<TheLightMan/>}/>
   <Route exact path="/wooden-house"  element={<WoodenHouse/>}/>
+  <Route exact path="/deer"  element={<Deer/>}/>
+  <Route exact path="/lion"  element={<Lion/>}/>
+  <Route exact path="/aquamarine"  element={<Aquamarine/>}/>
+  <Route exact path="/butterflies"  element={<Butterflies/>}/>
+  <Route exact path="/bird-of-paradise"  element={<BirdofParadise/>}/>
+  <Route exact path="/bloom-with-grace"  element={<BloomWithGrace/>}/>
+  <Route exact path="/blue-anemones-blanda"  element={<BlueAnemonesBlanda/>}/>
+  <Route exact path="/golden-queen"  element={<GoldenQueen/>}/>
+  <Route exact path="/orange-daisy"  element={<OrangeDaisy/>}/>
+  <Route exact path="/red-wild-flower"  element={<RedWildflower/>}/>
+
+
+
+
+
   <Route exact path="/thank-you"  element={<TnakyouPage/>}/>
 
 

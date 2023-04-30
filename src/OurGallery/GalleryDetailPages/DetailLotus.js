@@ -73,6 +73,8 @@ function Lotus() {
        <p >The lotus flower symbolizes purity, overcoming adversity, and rebirth. The exact symbolism of this aquatic flower varies between cultures and religions, but all of the lotus flower's meanings are positive in nature.
 
 </p>
+<p>#TheManyShadesofOurPlanet
+</p>
 
 </div>
 

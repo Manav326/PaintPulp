@@ -87,11 +87,6 @@ function      GardenOfHappiness() {
 <li className="PaintingDetailList"><span className="ListLabel">Enquiry:</span> <span className="ListValue"><a href="mailto:pue@paintpulp.com" className="nav-link PageLink">pue@paintpulp.com</a></span></li>
 
 
-
-
-
-
-
 </ul>
 </div>
 </div>

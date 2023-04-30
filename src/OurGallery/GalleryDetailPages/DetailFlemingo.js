@@ -73,6 +73,7 @@ function Flemingo() {
        <p >A type of wading bird, have long legs, they can wade into much deeper water than most other birds. Webbed feet support them on soft mud. When the water is beyond their wading depth, flamingos swim at the surface while feeding. Webbed feet allow the flamingo to swim quite readily. They are threatened by habitat loss due to mineral mining and human disturbance. 
 </p>
 
+<p>#TheManyShadesofOurPlanet</p>
 </div>
 
 

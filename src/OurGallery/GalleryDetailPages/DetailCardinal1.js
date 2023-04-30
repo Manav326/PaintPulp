@@ -69,18 +69,19 @@ function Cardinal1() {
        <div class="col-xs-12  col-sm-7 col-lg-7">
         <div className="PaintingDetailDescContainer">
        <h2 className="PaintingDetailTitle">Cardinal</h2>
-       {/* <div className="PaintingDetailDesc">
-      <p > Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo efficitur nisi ut accumsan. Nunc at risus ullamcorper, suscipit ex consequat, porttitor ex. Ut ut nulla vestibulum, ullamcorper mi in, ultricies justo. 
+     <div className="PaintingDetailDesc">
+      <p > For many bird lovers, the sight of a cardinal holds special meaning, sometimes evoking emotional or spiritual feelings. They say the vibrant red bird is an uplifting, happy sign that those we have lost will live forever, so long as we keep their memory alive in our hearts
     </p> 
+    <p> #TheManyShadesofOurPlanet</p>
 
-   </div> */}
+   </div> 
 
 
 <ul className="PaintingDetail">
-<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">30cmx30cm</span></li>
+<li className="PaintingDetailList"><span className="ListLabel">Size:</span> <span className="ListValue">36cm X 36cm</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Medium:</span> <span className="ListValue">Acrylic</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Material:</span> <span className="ListValue">Canvas</span></li>
-<li className="PaintingDetailList"><span className="ListLabel">Frame:</span> <span className="ListValue">No</span></li>
+<li className="PaintingDetailList"><span className="ListLabel">Frame:</span> <span className="ListValue">Yes</span></li>
 
 <li className="PaintingDetailList"><span className="ListLabel">Certificate of Authencity:</span> <span className="ListValue">Yes</span></li>
 <li className="PaintingDetailList"><span className="ListLabel">Enquiry:</span> <span className="ListValue"><a href="mailto:pue@paintpulp.com" className="nav-link PageLink">pue@paintpulp.com</a></span></li>
